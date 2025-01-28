@@ -1,4 +1,4 @@
-const apiKey = 'b4ebd83d8947450ea81122052252801';
+//add api token key
 const searchInput = document.getElementById('search-input');
 const searchButton = document.getElementById('search-button');
 
